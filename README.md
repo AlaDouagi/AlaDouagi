@@ -17,7 +17,7 @@ I’m a **Senior Full Stack JavaScript Developer** who loves building dynamic an
 - 💻 **Tech Stack:** JavaScript, TypeScript, Angular, React.js, Node.js, MongoDB
 - 🏗️ **Expertise:** Module Federation & Micro Frontends, UI/UX Integration, Functional & Reactive Programming
 - 🎓 **Education:** BSc in Computer Science, Université de Tunis El Manar
-- 🏅 **Certifications:** Node.js Certified Developer (JSNAD & JSNSD)
+- 🏅 **Certifications:** **Node.js** Certified Developer ([JSNAD](https://www.credly.com/badges/5c0e4f1b-c178-4db6-ad80-1e4d575b2830) & [JSNSD](https://www.credly.com/badges/f5fdf1d3-d11a-4783-bd7c-44d371f9be57)) and Senior **React.js** ⚛️ certified developer from [Certificates.dev](https://certificates.dev/react/certificates/a1d6b68a-2ce8-48d7-a9ba-721adf2a5dce)
 - 🚀 **Experience:** Building on the web since 2016
 - 🌏 **Passions:** Performance, usability, modern tech, great teams, and staying ahead of the curve
 
