@@ -39,17 +39,6 @@ I’m a **Senior Full Stack JavaScript Developer** who loves building dynamic an
 - 🚀 **Experience:** Building on the web since 2016
 - 🌏 **Passions:** Performance, usability, modern tech, great teams, and staying ahead of the curve
 
----
-
-## 📈 Contribution Metrics
-
-<p align="center">
-  <!-- Highly stable GitHub Streak Stats with cached layers -->
-  <img src="https://streak-stats.demolab.com?user=AlaDouagi&theme=radical&hide_border=true" alt="GitHub Streak" height="175" />
-</p>
-
----
-
 ## 📫 Connect with me!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/AlaDouagi)
