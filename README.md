@@ -8,7 +8,7 @@
 <!-- Dynamic Typing Headline Alternative to broken widgets -->
 <p align="left">
   <a href="https://github.com/a/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=61DAFB&width=435&lines=Senior+React.js+Developer;Full+Stack+JS+Engineer;Micro-Frontends+Expert" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=61DAFB&width=435&lines=Senior+React.js+Developer;Senior+Full+Stack+JS+Engineer;Micro-Frontends+Expert" alt="Typing SVG" />
   </a>
 </p>
 
@@ -42,7 +42,7 @@ I’m a **Senior Full Stack JavaScript Developer** who loves building dynamic an
 ## 📫 Connect with me!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/AlaDouagi)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AlaDouagi)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/AlaDouagi)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ala.douagi@gmail.com)
 [![Website](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.aladouagi.com/)
 
